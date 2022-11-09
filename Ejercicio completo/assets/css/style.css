@@ -1,0 +1,12 @@
+body{
+    background-image: url("../img/bg.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.cardes{
+    font-size: 14px;
+    font-weight: 600;
+}
+
